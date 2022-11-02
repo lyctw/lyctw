@@ -16,6 +16,17 @@ Here are some ideas to get you started:
 -->
 
 
-[![lyctw's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyctw&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-[![lyctw'e lang count](https://github-readme-stats.vercel.app/api/top-langs/?username=lyctw&langs_count=8&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![![opensbi](https://github-readme-stats.vercel.app/api/pin/?username=lyctw&repo=opensbi&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![lyctw's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyctw&show_icons=true&theme=transparent&hide=stars)](https://github.com/lyctw)
+<br/>
+[![lyctw'e lang count](https://github-readme-stats.vercel.app/api/top-langs/?username=lyctw&langs_count=8&theme=transparent&layout=compact)](https://github.com/lyctw)
+<br/>
+
+## Working on..
+
+[![opensbi](https://github-readme-stats.vercel.app/api/pin/?username=lyctw&repo=opensbi&theme=transparent)](https://github.com/riscv-software-src/opensbi)
+[![linux](https://github-readme-stats.vercel.app/api/pin/?username=andestech&repo=linux&theme=transparent)](https://github.com/andestech/linux)
+[![meta-andes](https://github-readme-stats.vercel.app/api/pin/?username=andestech&repo=meta-andes&theme=transparent)](https://github.com/andestech/meta-andes)
+[![meta-riscv](https://github-readme-stats.vercel.app/api/pin/?username=lyctw&repo=meta-riscv&theme=transparent)](https://github.com/riscv/meta-riscv)
+[![u-boot](https://github-readme-stats.vercel.app/api/pin/?username=u-boot&repo=u-boot&theme=transparent)](https://github.com/u-boot/u-boot)
+[![buildroot](https://github-readme-stats.vercel.app/api/pin/?username=buildroot&repo=buildroot&theme=transparent)](https://github.com/buildroot/buildroot)
+
